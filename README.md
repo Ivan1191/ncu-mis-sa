@@ -1,16 +1,25 @@
 # ncu-mis-sa 
 
-## 跳出迎賓訊息
+## 登入註冊頁面
 
-![](https://github.com/Ivan1191/ncu-mis-sa/blob/main/sceenshot/pic1.png)
+![](https://github.com/Ivan1191/ncu-mis-sa/blob/main/screenshot/pic0.png)
 
-## 第一版按鈕設計
+## 登入後的搜尋頁
 
-![](https://github.com/Ivan1191/ncu-mis-sa/blob/main/sceenshot/pic2.png)
+![](https://github.com/Ivan1191/ncu-mis-sa/blob/main/screenshot/pic1.png)
 
-## 畫筆功能實現
+## 仲介刊登出售
 
-![](https://github.com/Ivan1191/ncu-mis-sa/blob/main/sceenshot/pic4.png)
+![](https://github.com/Ivan1191/ncu-mis-sa/blob/main/screenshot/pic3.png)
 
-## 實作背景色
-![](https://github.com/Ivan1191/ncu-mis-sa/blob/main/sceenshot/pic5.png)
+## 商品出售內容
+
+![](https://github.com/Ivan1191/ncu-mis-sa/blob/main/screenshot/pic5.png)
+
+## 管理帳戶
+
+![](https://github.com/Ivan1191/ncu-mis-sa/blob/main/screenshot/pic2.png)
+
+## 系統通知
+
+![](https://github.com/Ivan1191/ncu-mis-sa/blob/main/screenshot/pic4.png)
